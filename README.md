@@ -24,8 +24,6 @@ customer-churn/
 └── README.md
 ```
 
-> ⚠️ Dataset not included due to file size. Download from [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) and place in `/data` folder.
-
 ---
 
 ## Dataset
