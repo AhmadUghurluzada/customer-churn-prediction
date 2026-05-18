@@ -211,3 +211,8 @@ The dataset lacks behavioral signals that would be the strongest real-world chur
 | FastAPI | REST API framework |
 | Uvicorn | ASGI server |
 | Joblib | Model serialization |
+
+
+## Live Demo
+API is deployed and accessible at: https://customer-churn-prediction-production-25ab.up.railway.app/docs
+
